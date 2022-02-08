@@ -2,7 +2,7 @@
 
 This project is provided under the GNU-GPL version 2 license:
 
- Copyright (C) 2018, Dr. Inbal Tuvi-Arad (Department of Natural Sciences, The Open University of Israel), Dr. Gil Alon (Department of Mathematics and Computer Science, The Open University of Israel), Prof. David Avnir (Institute of Chemistry, The Hebrew University of Jerusalem).
+ Copyright (C) 2018, Prof. Inbal Tuvi-Arad (Department of Natural Sciences, The Open University of Israel), Dr. Gil Alon (Department of Mathematics and Computer Science, The Open University of Israel), Prof. David Avnir (Institute of Chemistry, The Hebrew University of Jerusalem).
 
 
   ##                  GNU GENERAL PUBLIC LICENSE
