@@ -63,7 +63,7 @@ Original Code by Avnir and coworkers:
 
 **Science/Math:**
 
-Dr. Inbal Tuvi-Arad, Department of Natural Sciences, The Open University of Israel
+Prof. Inbal Tuvi-Arad, Department of Natural Sciences, The Open University of Israel
 
 Dr. Gil Alon, Department of Mathematics and Computer Science, The Open University of Israel
 
@@ -86,7 +86,7 @@ The code for the hungarian algorithm is copyright (c) 2012, Jacob Frelinger
 
 ## CONTACT
 
-Dr. Inbal Tuvi-Arad, Department of Natural Sciences, The Open University of Israel, E-mail: inbaltu@openu.ac.il
+Prof. Inbal Tuvi-Arad, Department of Natural Sciences, The Open University of Israel, E-mail: inbaltu@openu.ac.il
 
 
 
